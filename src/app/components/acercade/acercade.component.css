@@ -1,0 +1,165 @@
+h2 {
+    font-size: 22px;
+    color:black;
+    margin-left: 0.3rem;
+}
+
+.profile-image {
+    width: 220px;
+    height: 220px;
+    margin-top: -6%;
+    border-radius: 50%;
+    margin-right: 3em;
+}
+.sobremi{
+    margin-top: 1%;
+    padding-top: 0.5%;
+    background-color: rgb(196, 227, 240);
+    border-style: initial;
+    border-style:solid;
+    border-color: rgb(4, 61, 126);
+}
+#perfil-imagen {
+    display: flex;
+}
+.UBA {
+    width: 20%;
+    margin-top: 3%;
+    margin-right: 2%;
+    float: right;
+}
+#miperfil {
+    display: flex;
+    justify-content: space-between;
+}
+.texto-nombre {
+    margin-top: 15%;
+    font-style:italic;
+    font-family: 'Times New Roman';
+    font-size: 220%;
+}
+p {
+    margin-left: 3%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 130%;
+    font-family: Times;
+}
+.conborde {
+    border-top-style:inherit;
+}
+.progress {
+    --bs-progress-height: 1rem;
+    --bs-progress-font-size: 0.75rem;
+    --bs-progress-bg: #e9ecef;
+    --bs-progress-border-radius: 0.375rem;
+    --bs-progress-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.075);
+    --bs-progress-bar-color: #fff;
+    --bs-progress-bar-bg: #0d6efd;
+    --bs-progress-bar-transition: width 0.6s ease;
+    display: flex;
+    height: var(--bs-progress-height);
+    overflow: hidden;
+    font-size: var(--bs-progress-font-size);
+    background-color: var(--bs-progress-bg);
+    border-radius: var(--bs-progress-border-radius);
+}
+
+.miskills{
+    display: flex;
+    justify-content:space-around;
+}
+.icon-skill1{
+    height: 5%;
+    width: 5%;
+    padding-bottom: 1%;
+}
+.icon-skill2{
+    height: 9%;
+    width: 9%;
+    padding-bottom: 1%;
+}
+.icon-skill3{
+    height: 8%;
+    width: 8%;
+    padding-bottom: 1%;
+}
+.js-icon {
+    height: 8%;
+    width: 8%;
+    padding-bottom: 1%;
+    margin-right: 1.5%;
+}
+.photoshop-icon {
+    height: 4.5%;
+    width: 4.5%;
+    margin-top: 1%;
+}
+.blender-icon {
+    height: 5%;
+    width: 5%;
+    padding-bottom: 1%;
+    margin-right: 1%;
+}
+.ilus-icon{
+    height: 9%;
+    width: 9%;
+    padding-bottom: 1%;
+    margin-left: 0.75%;
+}
+.icon-skill4{
+    height: 6%;
+    width: 6%;
+}
+.habilidad {
+    border-style: groove;
+    border-color: aqua;
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+}
+
+.skills{
+    margin-top: 2px;
+    padding-top: 0.5%;
+    background-color: rgb(196, 227, 240);
+    border-style: initial;
+    border-style:solid;
+    border-color: rgb(4, 61, 126);
+}
+
+.iconos {
+    display: flex;
+    justify-content: space-around;
+}
+.experiencia {
+    margin-top: 2px;
+    background-color: rgb(196, 227, 240);
+    border-style: initial;
+    border-style:solid;
+    border-color: rgb(4, 61, 126);
+    padding-top: 0.2%;
+    
+}
+.educacion {
+    margin-top: 2px;
+    padding-top: 0.2%;
+    background-color: rgb(196, 227, 240);
+    border-style: initial;
+    border-style:solid;
+    border-color: rgb(4, 61, 126);
+}
+.subtexto {
+    text-align: center;
+}
+h5 {
+    text-align: center;
+    margin-bottom: 1%;
+    padding-top: 0.25%;
+    padding-bottom: 0.25%;
+    background-image:url(../../../assets/fondo2.jpg);
+    color: azure;
+    font-size: medium;
+}
+ 
